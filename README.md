@@ -1,3 +1,30 @@
+# Get Environment Setup
+- [ ] Download and install the latest version of VSCode (Just click next)	https://code.visualstudio.com/
+- [ ] Download and install the 10.16.3 version of NodeJS (Just click next)	https://nodejs.org/en/
+- [ ] Download and install the latest version of git (Just click next)	https://git-scm.com/download/win
+- [ ] **Get Bash Terminal**
+1. Open terminal `Ctrl + Shift + \` `
+1. Open Command Palette: `Ctrl + Shift + P`
+1. Type `Select Default Shell`
+1. Select `Git Bash`
+1. Open a New Terminal
+
+---
+# Get Project Setup
+- [ ] **Clone Project**
+1. navigate to where you want the project installed
+1. `git clone https://github.com/FangerZero/coach-adam.git`
+	You may need to login. 
+
+- [ ] **Install Dependencies**
+1. Run command `npm i`
+
+---
+# Get Project to Run
+1. navigate to whre the project root folder
+1. Run command `npm start`
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

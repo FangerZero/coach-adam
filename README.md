@@ -3,7 +3,7 @@
 - [ ] Download and install the latest version of NodeJS (Just click next)	https://nodejs.org/en/
 - [ ] Download and install the latest version of git (Just click next)	https://git-scm.com/download/win
 - [ ] **Get Bash Terminal**
-1. Open terminal `Ctrl + Shift + \` `
+1. Open terminal ``Ctrl + Shift + ` ``
 1. Open Command Palette: `Ctrl + Shift + P`
 1. Type `Select Default Shell`
 1. Select `Git Bash`

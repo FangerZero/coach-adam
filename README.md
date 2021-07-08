@@ -1,6 +1,6 @@
 # Get Environment Setup
 - [ ] Download and install the latest version of VSCode (Just click next)	https://code.visualstudio.com/
-- [ ] Download and install the 10.16.3 version of NodeJS (Just click next)	https://nodejs.org/en/
+- [ ] Download and install the latest version of NodeJS (Just click next)	https://nodejs.org/en/
 - [ ] Download and install the latest version of git (Just click next)	https://git-scm.com/download/win
 - [ ] **Get Bash Terminal**
 1. Open terminal `Ctrl + Shift + \` `

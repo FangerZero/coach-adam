@@ -12,9 +12,9 @@ function App() {
           <Navigation />
         </header>
         <body>
+          <Video />
           <Resume />
         </body>
-        <Video></Video>
       </div>
     </BrowserRouter>
   );

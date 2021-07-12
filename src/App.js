@@ -12,11 +12,9 @@ function App() {
         <header className="App-header" id="home">
           <Navigation />
         </header>
-        <body>
-          <Video />
-          <SignUp />
-          <Resume />
-        </body>
+        <Video />
+        <SignUp />
+        <Resume />
       </div>
     </BrowserRouter>
   );

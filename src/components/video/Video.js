@@ -1,7 +1,13 @@
+import './Video.css';
+import myVideo from './intro-maker-with-logo-reveal-featuring-a-cool-explosion-400-el1.mp4';
+
 function Video() {
     return (
-        <div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/iJuNmyPcq5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div className="Video">    
+            <video height="400px" muted loop autoPlay>
+                <source src={myVideo} type="video/mp4" />
+                Your browser does not support the video tag.
+            </video>
         </div>
     )
 }

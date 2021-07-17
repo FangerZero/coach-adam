@@ -6,7 +6,7 @@ import train from './train.png';
 
 function SignUp() {
     return (
-        <div className="SignUp">
+        <div id="signUp" className="SignUp">
             <SignUpLink title="Test" img={test}/>
             <SignUpLink title="Coach" img={coach}/>
             <SignUpLink title="Train" img={train}/>

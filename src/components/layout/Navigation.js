@@ -5,7 +5,7 @@ function Navigation() {
   return (
     <div className="Navigation">
         <HashLink className="HashLink" to="/#resume">Coach Adam</HashLink>
-        <HashLink className="HashLink" to="/#resume">Sign Up</HashLink>
+        <HashLink className="HashLink" to="/#signUp">Sign Up</HashLink>
     </div>  
   );
 }

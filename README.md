@@ -21,8 +21,15 @@
 
 ---
 # Get Project to Run
-1. navigate to whre the project root folder
+1. navigate to where the project root folder
 1. Run command `npm start`
+
+---
+# Pushing to FireBase (from Terminal)
+1. Run `npm run build --prod`
+1. Run `firebase deploy`
+
+---
 ---
 
 # Getting Started with Create React App

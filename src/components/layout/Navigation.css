@@ -1,3 +1,24 @@
-.Navigation {
-  background-color: lightyellow;
+.HashLink {
+  margin: 0 10px;
+  padding: 5px 20px;
+  border-radius: 25px;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  vertical-align: center;
+}
+
+.HashLink:hover {
+  background-color: rgb(50, 50, 50);
+}
+
+/* visited link */
+a {
+  color: white;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: gray;
 }

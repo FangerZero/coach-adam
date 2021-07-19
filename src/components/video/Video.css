@@ -1,3 +1,7 @@
 .Video {
     background-color: black;
 }
+
+video {
+    width:100%;
+}

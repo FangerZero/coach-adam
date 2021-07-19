@@ -3,6 +3,10 @@
   flex-direction: column;
 }
 
+h1, h2, h3 {
+  color: #d5a04a;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -22,7 +26,6 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .App-link {

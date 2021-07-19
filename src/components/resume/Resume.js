@@ -10,7 +10,7 @@ function Resume() {
     };
 
     const windowWidth = () => {
-        return window.innerWidth < 500 ? window.innerWidth : 1000;
+        return window.innerWidth < 1000 ? window.innerWidth : 1000;
     }
     
     return(

@@ -1,8 +1,15 @@
 .SocialMedia {
-    padding-right: 20px;
-    padding-bottom: 20px;
-    position: -webkit-sticky;
-    position: sticky;
+    align-items: center;
+    justify-content: center;
     background-color: rgb(213, 160, 74, 0.6);
-    
+    margin-top: 10px;
+    padding: 5px 0;
+    position: sticky;
+    left: 50%;
+    bottom: 0;
+}
+
+a {
+    top: 50%;
+    padding: 0 10px;
 }

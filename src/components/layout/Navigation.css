@@ -4,6 +4,9 @@
   justify-content: center;
 }
 .HashLink {
+  color: #d5a04a;
+  text-decoration: none;
+  cursor: pointer;
   margin: 0 10px;
   padding: 5px 20px;
   border-radius: 25px;
@@ -14,16 +17,6 @@
 }
 
 .HashLink:hover {
-  background-color: rgb(50, 50, 50);
-}
-
-/* visited link */
-a {
-  color: #d5a04a;
-  text-decoration: none;
-}
-
-/* mouse over link */
-a:hover {
   color: gray;
+  background-color: rgb(50, 50, 50);
 }
